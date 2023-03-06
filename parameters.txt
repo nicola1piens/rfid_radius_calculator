@@ -1,0 +1,20 @@
+Parameters:
+
+- Hoogte plafond
+- Hoogte badge
+- Obstructie factor
+- x coördinaat cirkel
+- y coördinaat cirkel
+- schaal grondplan (moet grootte cirkel aanpassen, niet de kaart)
+
+1 pixel = 0.0264583333 cm
+
+0.4 cm --> deur
+13.79 cm --> totale breedte mediport
+
+hoogte foto = breedte foto * (1520 / 2215
+
+1,7040358744394618834080717488789 --> factor zonder obstructie
+1,2107623318385650224215246636771 --> factor met obstructie
+
+0,71052631578947368421052631578948 --> gemeten obstructiefactor)
